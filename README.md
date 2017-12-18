@@ -16,13 +16,13 @@ Font Awesome 5 comes with a number of styles instead of a singular one as in FA4
 
 To use a Font Awesome icon, simply apply this syntax:
 
-<i class="far fa-shopping-cart fa-lg"></i>
+`<i class="far fa-shopping-cart fa-lg"></i>`
 
 or
 
-<i class="far fa-shopping-cart fa-lg" />
+`<i class="far fa-shopping-cart fa-lg" />`
 
-"far" means we're using the regular styling. "fas" means "solid", "fab" is for brand styling.
+`far` means we're using the regular styling. `fas` means "solid", `fab` is for brand styling.
 
 Read more about Font Awesome 5 usage here:
 
