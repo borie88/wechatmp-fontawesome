@@ -1,12 +1,3 @@
-/**app.wxss**/
-page, .page, view {
-  box-sizing: border-box;
-}
-
-page {
-  /*font-size: 32rpx;*/
-}
-
 /*Font Awesome 5.x*/
 @font-face {
     font-family: 'Font Awesome 5 Brands';
